@@ -1,6 +1,6 @@
 # https://github.com/bellinamilito-tech/lab11-BM
-# Partner 1: Bellina
-# Partner 2: Bellina
+# Partner 1: Bellina Milito
+# Partner 2: Bellina Milito
 
 import math
 
