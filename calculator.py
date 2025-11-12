@@ -1,11 +1,4 @@
-"""
-calculator.py
-- Defines functions used to create a simple calculator
-
-One function per operation, in order.
-"""
-# First example
-# https://github.com/bellinamilito-tech/lab11-BM
+# https://github.com/bellinamillito-tech/lab11-BM
 # Partner 1: Bellina
 # Partner 2: Bellina
 
